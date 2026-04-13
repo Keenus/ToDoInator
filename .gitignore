@@ -42,6 +42,10 @@ testem.log
 /typings
 __screenshots__/
 
+# Capacitor iOS build artifacts
+ios/App/Pods/
+ios/App/App/public/
+
 # System files
 .DS_Store
 Thumbs.db

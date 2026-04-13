@@ -1,0 +1,8 @@
+{
+  "appId": "com.survivaltodo.app",
+  "appName": "Survival To-Do",
+  "webDir": "dist/app/browser",
+  "server": {
+    "androidScheme": "https"
+  }
+}
